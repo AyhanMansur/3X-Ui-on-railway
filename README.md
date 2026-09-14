@@ -1,4 +1,4 @@
-
+⚡🧑‍💻 دوستان برای دریافت اطلاعات بیشتر به کانال تلگرام جوین بدید https://t.me/ayhandeveloper
 # 🚀 **3X-ui-Panel** | استقرار ابریِ ۳X-UI روی Railway با Nginx Reverse Proxy
 
 <p align="center"> 
