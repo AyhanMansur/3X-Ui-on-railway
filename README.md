@@ -22,7 +22,7 @@ In this project, all web traffic (panel management, subscription links, and HTTP
 
 | Feature | Description |
 | --- | --- |
-| ⚡ **3X-UI v3.8.5** | Upgraded to the latest official 3X-UI version with higher performance |
+| ⚡ **3X-UI v3.10.2** | Upgraded to the latest official 3X-UI version with higher performance |
 | 🛡️ **Nginx Reverse Proxy** | Manages web routes and protocols behind a single port |
 | 🔌 **Railway TCP Proxy** | Direct traffic routing of port `8080` for Reality / gRPC protocols |
 | 🌐 **CF Real IP** | Real client IP detection behind the Cloudflare CDN network (Support is only available when using your own custom domain registered behind Cloudflare) |
