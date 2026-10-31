@@ -4,7 +4,7 @@
 # 🚀 **3X-ui-Panel** | استقرار ابریِ ۳X-UI روی Railway با Nginx Reverse Proxy
 ---
 <p align="center"> 
-  <img src="https://img.shields.io/badge/3Xui--Panel-v8.5-blue?logo=github" /> 
+  <img src="https://img.shields.io/badge/3Xui--Panel-v3.10.2-blue?logo=github" /> 
   <img src="https://img.shields.io/badge/Based-Docker-2496ED?logo=docker" /> 
   <img src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?logo=railway" /> 
 </p>
@@ -25,7 +25,7 @@
 
 | ویژگی | توضیح |
 | --- | --- |
-| ⚡ **3X-UI v3.8.5** | ارتقا به آخرین نسخه رسمی ۳X-UI با کارایی بالاتر |
+| ⚡ **3X-UI v3.10.2** | ارتقا به آخرین نسخه رسمی ۳X-UI با کارایی بالاتر |
 | 🛡️ **Nginx Reverse Proxy** | مدیریت مسیرها و پروتکل‌های وب پشت یک پورت واحد |
 | 🔌 **Railway TCP Proxy** | هدایت مستقیم ترافیک پورت `8080` برای پروتکل‌های Reality / gRPC |
 | 🌐 **پشتیبانی فقط در زمانیکه از دامنه‌یشخصی خود که در پشتکلود فلر ثبت‌شده است قابلاستفاده است CF Real IP ** | شناسایی واقعی IP کلاینت‌ها از پشت شبکه CDN کلادفلر |
